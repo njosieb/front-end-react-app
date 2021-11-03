@@ -1,0 +1,27 @@
+.sections {
+    display: flex;
+    justify-content: space-around;
+}
+
+.section-header {
+    padding-top: 30px;
+}
+
+.container {
+    background-color: #282c34;
+    color: oldlace;
+}
+
+.arrangement {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.restaurant {
+    background-color: oldlace;
+    color: purple;
+    font-weight: 750;
+    margin: 10px;
+    padding: 10px;
+}

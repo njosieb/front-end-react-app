@@ -1,0 +1,45 @@
+.App {
+  background-color: #282c34;
+  color: white;
+}
+
+#reset:hover {
+    color: red;
+    border-color: red;
+  }
+  
+  #readout {
+    position: absolute;
+    bottom: 7vh;
+    left: 35vw;
+  }
+  
+  #selector {
+    position: absolute;
+    top: 21vh;
+    right: 47.5vw;
+    font-size: 40px;
+    z-index: 3;
+  }
+  
+  #result{
+    font-size:50px;
+    color: rgb(0, 180, 120);
+  }
+  
+  input {
+    font-size: 16px;
+    border:none;
+    border-bottom: 1px solid black
+  }
+
+.top-margin {
+  padding-top: 30px;
+}
+
+
+
+
+
+
+ 

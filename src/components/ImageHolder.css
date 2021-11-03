@@ -1,0 +1,19 @@
+.container {
+    margin-top: 35px;
+    padding: auto;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+.meal-picture {
+    border: 2px solid black;
+}
+
+/* .picture-size {
+    height: min-content;
+    width: min-content ;
+} */
